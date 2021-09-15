@@ -129,4 +129,5 @@ dmypy.json
 .pyre/
 
 # PDF files
+Assignments/
 .pdf
